@@ -1,2 +1,0 @@
-# trendchart
-trend data chart
